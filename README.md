@@ -4,4 +4,7 @@
   To run singular typescript nodes (i.e. execute typescript files like how you would run python files) directly from command line, run the following command `npx ts-node path_to_ts_file`
   Note that you must first ensure that in your package.json, you temporarily comment out `type: "module"`
 
+  This repo is currently under active development. Motion sensor controls and voice recognition are actively being worked on.
 
+  # Usage Instructions
+  comming soon ... (once Pico Voice user keys are purchased)
